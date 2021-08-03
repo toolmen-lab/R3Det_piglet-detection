@@ -3,10 +3,10 @@ This tensorflow implementation code is based on [R3Det_Tensorflow](https://githu
 
 
 ## Environment
-python3.6
-cuda 10.0
-opencv(cv2)
-tensorflow-gpu 1.13
+python3.6  
+cuda 10.0  
+opencv(cv2)  
+tensorflow-gpu 1.13  
 
 
 
@@ -25,7 +25,7 @@ python setup.py build_ext --inplace
 cd $PATH_ROOT/tools
 python test_r3det.py 
 ```
-test data path: $PATH_ROOT/data/io/PIGLET/test/images
+test data path: $PATH_ROOT/data/io/PIGLET/test/images  
 output path: $PATH_ROOT/output/predictions
 
 
