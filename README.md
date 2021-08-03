@@ -1,5 +1,5 @@
 # Piglets detection using R3Det
-This tensorflow implementation code is based on [R3Det: Refined Single-Stage Detector with Feature Refinement for Rotating Object](https://github.com/Thinklab-SJTU/R3Det_Tensorflow)
+This tensorflow implementation code is based on [R3Det_Tensorflow](https://github.com/Thinklab-SJTU/R3Det_Tensorflow)
 
 
 ## Environment
